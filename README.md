@@ -1,16 +1,13 @@
-## Hi there 👋
+<h1><strong>Ola, eu sou o Pedro 👋</h1></strong>
 
-<!--
-**pedraokk/pedraokk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<b>Tenho 16 anos
 
-Here are some ideas to get you started:
+Estou estudando na melhor escola do mundo inteiro o
+<a> www.alura.com.br </a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Sou artista e gosto de fazer arte graffit 
+
+Eu amo minha _familia_ </b>
+
+<image>![image](https://github.com/pedraokk/pedraokk/assets/172786994/fc1e504d-61d2-4a05-a1e5-dfd79a9a6b6a)</image>
+<h2>👍</h2>
